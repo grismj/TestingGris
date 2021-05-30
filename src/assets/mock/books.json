@@ -1,0 +1,104 @@
+{
+  "data":[
+     {
+        "general":{
+           "title":"The Little Prince",
+           "author":"Antoine de Saint-Exupery"
+        },
+        "detail":{
+           "year":"2005",
+           "publisher":"Salamandra"
+        }
+     },
+     {
+        "general":{
+           "title":"The Little Mermaid",
+           "author":"Hans Christian Andersen"
+        },
+        "detail":{
+           "year":"1837",
+           "publisher":"C. A. Reitzel"
+        }
+     },
+     {
+        "general":{
+           "title":"Puss in Boots",
+           "author":"Giovanni Francesco Straparola"
+        },
+        "detail":{
+           "year":"1550",
+           "publisher":"Charles Perrault,Andrew Demine"
+        }
+     },
+     {
+        "general":{
+           "title":"Hansel and Gretel",
+           "author":"the Brothers Grimm"
+        },
+        "detail":{
+           "year":"1810",
+           "publisher":"Kinder- und Hausmärchen"
+        }
+     },
+     {
+        "general":{
+           "title":"Heidi",
+           "author":"Johanna Spyri"
+        },
+        "detail":{
+           "year":"1881",
+           "publisher":"Juventud"
+        }
+     },
+     {
+        "general":{
+           "title":"The Ugly Duckling",
+           "author":"Hans Christian Andersen"
+        },
+        "detail":{
+           "year":"1843",
+           "publisher":"C.A. Reitzel"
+        }
+     },
+     {
+        "general":{
+           "title":"The Red Shoes",
+           "author":"Hans Christian Andersen"
+        },
+        "detail":{
+           "year":"1845",
+           "publisher":"New Fairy Tales"
+        }
+     },
+     {
+        "general":{
+           "title":"The Wonderful Wizard of Oz",
+           "author":"L. Frank Baum"
+        },
+        "detail":{
+           "year":"1900",
+           "publisher":"George M. Hill Company"
+        }
+     },
+     {
+        "general":{
+           "title":"The wise king",
+           "author":"Simon R. Doubleday"
+        },
+        "detail":{
+           "year":"2005",
+           "publisher":"Basic Books"
+        }
+     },
+     {
+        "general":{
+           "title":"The merchant of baghdad",
+           "author":"Fillipe Castro"
+        },
+        "detail":{
+           "year":"1989",
+           "publisher":"Tirant Lo Blanch"
+        }
+     }
+  ]
+}
